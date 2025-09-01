@@ -1,7 +1,7 @@
 # 💊 Dawak – AI-Powered Medication Assistant
 
 <p align="center">
-  <img src="https://i.ibb.co/7y4W0YT/dawak-logo.png" alt="Dawak Logo" width="150"/>
+  <img src="Dawak_logo.png" alt="Dawak Logo" width="200"/>
 </p>
 
 ## 📖 Project Overview
@@ -41,13 +41,9 @@ Our mission is to transform medication safety in Egypt and the broader Arab regi
 ---
 
 <div align="center">
+  <img src="Victoris_4.0_logo.png" alt="IEEE Victoris 4.0" width="150"/>
   
-![IEEE Victoris 4.0](https://i.ibb.co/7y4W0YT/dawak-logo.png)
-
-**Innovating for better healthcare in the Arab world**
-
-[![IEEE](https://img.shields.io/badge/IEEE-Victoris%204.0-00629B?style=for-the-badge&logo=ieee)](https://www.ieee.org)
-
+  **Innovating for better healthcare in the Arab world**
+  
+  [![IEEE](https://img.shields.io/badge/IEEE-Victoris%204.0-00629B?style=for-the-badge&logo=ieee)](https://www.ieee.org)
 </div>
-
-*Note: I've used placeholder image links (replace "https://i.ibb.co/7y4W0YT/dawak-logo.png" with your actual logo URL once you upload it to an image hosting service like ImgBB, Imgur, or GitHub itself).*
